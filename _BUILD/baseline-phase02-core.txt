@@ -1,0 +1,11 @@
+PASS  01 URID hex roundtrip
+PASS  02 URO link is 512 bits
+PASS  03 header total width
+PASS  04 header verifies clean
+PASS  05 header tamper detected
+PASS  06 bare URO fails component enforcement
+PASS  07 populated object passes enforcement
+PASS  08 capability resolves through parent chain
+PASS  09 DateURO epoch anchor
+PASS  10 expiration renew vs delete
+10/10 checks passed

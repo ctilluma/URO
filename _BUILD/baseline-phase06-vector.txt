@@ -1,0 +1,11 @@
+PASS  01 all twelve RFC 36.1 fields present
+PASS  02 record_interaction books and modulates
+PASS  03 record_use is counters-only
+PASS  04 topic trust updates directionally and clamps
+PASS  05 overall trust aggregates within bounds
+PASS  06 success rate math
+PASS  07 seal integrity stable
+PASS  08 genesis trust delegates to lineage rule
+PASS  09 hostile outcome is non-fatal
+PASS  10 persistence round-trips counters and topics
+10/10 checks passed

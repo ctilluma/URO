@@ -1,0 +1,11 @@
+PASS  01 canonical imports resolve
+PASS  02 synapse constructs between two endpoints
+PASS  03 NTE state has exactly 24 axes
+PASS  04 all axes initialize at baseline 50.0
+PASS  05 InteractionOutcome tolerates partial payloads
+PASS  06 record_interaction modulates all 24 axes
+FAIL  07 cross-talk is engine-owned (E/I balance observable) :: AssertionError: engine exposes no cross-talk pass
+PASS  08 decay_synapse moves axes toward 50.0
+FAIL  09 persistence round-trips identity and levels :: AssertionError: 
+FAIL  10 CoordinatorBus modulation is non-fatal :: TypeError: CoordinatorBus.__init__() missing 1 required positional argument: 'dock_name'
+7/10 checks passed

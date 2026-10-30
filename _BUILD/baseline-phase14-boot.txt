@@ -1,0 +1,11 @@
+PASS  01 sixteen boot steps in canonical order
+PASS  02 full run reaches READY
+PASS  03 halt on failed step preserves order
+PASS  04 default handlers are permissive noops
+PASS  05 child responses release only on ACK
+PASS  06 child seal verification detects tampering
+PASS  07 sealed object passes all four self-checks
+PASS  08 broken seal quarantines
+PASS  09 out-of-bounds NTE quarantines
+PASS  10 zero URID fails integrity
+10/10 checks passed

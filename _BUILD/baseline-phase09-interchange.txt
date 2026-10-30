@@ -1,0 +1,11 @@
+PASS  01 Number to Phone Number wrapper per RFC 84
+PASS  02 translator chains resolve via pathing
+PASS  03 missing path raises TranslationError
+PASS  04 translation records a PATH association
+PASS  05 container resolution caches wrapper paths
+PASS  06 interchange header delegates to canonical builder
+PASS  07 binary encode/decode round-trip
+PASS  08 JSON round-trip
+PASS  09 hot-swap preserves URID1 and carries associations
+PASS  10 priority precedence, retention, self-loading
+10/10 checks passed

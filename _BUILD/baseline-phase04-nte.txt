@@ -1,0 +1,11 @@
+PASS  01 NTEAxis has 24 members
+PASS  02 AXES_24 matches enum order and length
+PASS  03 12/12 partition disjoint and complete
+PASS  04 CognitiveAxis is a compat subset of NTEAxis
+PASS  05 governance covers all 24 axes
+PASS  06 fresh state is 24 keys at baseline 50
+PASS  07 set_level clamps to [0, 100]
+PASS  08 seal integrity stable
+PASS  09 normalize pads partial state to 24
+PASS  10 legacy views are 24-compliant
+10/10 checks passed

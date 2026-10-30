@@ -1,0 +1,11 @@
+PASS  01 canonical imports resolve
+PASS  02 synapse constructs between two endpoints
+PASS  03 NTE state has exactly 24 axes
+PASS  04 all axes initialize at baseline 50.0
+PASS  05 InteractionOutcome tolerates partial payloads
+PASS  06 record_interaction modulates all 24 axes
+PASS  07 cross-talk is engine-owned (E/I balance observable)
+PASS  08 decay_synapse moves axes toward 50.0
+PASS  09 persistence round-trips identity and levels
+PASS  10 CoordinatorBus modulation is non-fatal
+10/10 checks passed

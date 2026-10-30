@@ -1,0 +1,11 @@
+PASS  01 currency decimal precision enforcement
+PASS  02 1:1000 conversion both directions
+PASS  03 network tax math
+PASS  04 atomicity on insufficient funds
+PASS  05 ledger append-only and balance invariant
+PASS  06 marketplace purchase with ledger integration
+PASS  07 social pricing trust weighting
+PASS  08 supply chain cost roll-up
+PASS  09 currency invariants preserved
+PASS  10 GLOBAL_LEDGER single instance
+10/10 checks passed

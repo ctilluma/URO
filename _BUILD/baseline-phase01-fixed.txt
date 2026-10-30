@@ -1,0 +1,11 @@
+PASS  01 UUID is 128 bits
+PASS  02 URID is 256 bits
+PASS  03 URO is 512 bits
+PASS  04 Hash is 1024 bits
+PASS  05 NTE State is 1536 bits
+PASS  06 Epoch is 14-MAY-1973 00:12:24
+PASS  07 InSPativo is 1000 InSPaneda
+PASS  08 Network tax is 10%
+PASS  09 OPARError exists
+FAIL  10 types.py Protocols exist :: IndentationError: expected an indented block after class definition on line 21 (types.py, line 22)
+9/10 checks passed

@@ -1,0 +1,11 @@
+PASS  01 uPass six-step chain per RFC 58.2
+PASS  02 LDAP record carries the eight schema fields
+PASS  03 circle rings wrap and unwrap per RFC 57
+PASS  04 field encryption with dual headers and grants
+PASS  05 user keyring wraps per RFC 53.1
+PASS  06 custody chain and 2-way exchange per RFC 63
+PASS  07 policy override groups win per RFC 55.1
+PASS  08 ACL override OR semantics per RFC 59.1
+PASS  09 PKI regions and key lifecycle per RFC 51
+PASS  10 identity verification and time binding per RFC 54
+10/10 checks passed

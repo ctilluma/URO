@@ -1,0 +1,11 @@
+PASS  01 polarity covers 24 axes with descriptors
+PASS  02 weighting curves match RFC 27
+PASS  03 engine remains sole cross-talk executor
+PASS  04 cost to buy capped at 100
+PASS  05 firing decisions match RFC 29.1 examples
+PASS  06 receptor min/max bounds per RFC 30.3
+PASS  07 activity is antagonists minus protagonists
+PASS  08 D1/D2 asymmetry and trust weighting
+PASS  09 habit and bi-directional R/P propagation
+PASS  10 ANS branches and regulation thresholds
+10/10 checks passed

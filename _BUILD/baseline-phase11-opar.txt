@@ -1,0 +1,11 @@
+PASS  01 STAGES order per RFC 12
+PASS  02 nte24 baseline and partial fill
+PASS  03 StageResult defaults per RFC 12
+PASS  04 valid stimulus yields FULFILLED with full trace
+PASS  05 failing act is INCAPABLE and isolated
+PASS  06 false claim is DEFERRED with blocked gate
+PASS  07 receipt honesty contract
+PASS  08 grounding disabled skips gate
+PASS  09 reference satisfies OPARCapability protocol
+PASS  10 checklist and conformance harness pass
+10/10 checks passed

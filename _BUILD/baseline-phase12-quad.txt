@@ -1,0 +1,11 @@
+PASS  01 four quad dimensions per RFC 45
+PASS  02 composite is the four-dimension mean
+PASS  03 gap remediation flag below threshold
+PASS  04 innovation affinity from creativity and transfer
+PASS  05 CROATE has six traits
+PASS  06 trait scores are means of mapped axes
+PASS  07 returns within 1 SD leave character untouched
+PASS  08 sustained deviation drifts character toward condition
+PASS  09 drift is monotonic and bounded by condition
+PASS  10 equilibrium copy and condition clamping
+10/10 checks passed

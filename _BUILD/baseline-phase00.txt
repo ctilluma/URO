@@ -1,0 +1,11 @@
+FAIL  01 canonical imports resolve :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  02 synapse constructs between two endpoints :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  03 NTE state has exactly 24 axes :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  04 all axes initialize at baseline 50.0 :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  05 InteractionOutcome tolerates partial payloads :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  06 record_interaction modulates all 24 axes :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  07 cross-talk is engine-owned (E/I balance observable) :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  08 decay_synapse moves axes toward 50.0 :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  09 persistence round-trips identity and levels :: ModuleNotFoundError: No module named 'pydantic'
+FAIL  10 CoordinatorBus modulation is non-fatal :: ModuleNotFoundError: No module named 'pydantic'
+0/10 checks passed

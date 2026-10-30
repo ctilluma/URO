@@ -1,0 +1,11 @@
+PASS  01 connector matrix per RFC 80 incl SELF rows
+PASS  02 TV consensus ladder per RFC 73
+PASS  03 beacon sequences per RFC 74
+PASS  04 onion layers expose only self and next
+PASS  05 CRO resolution matrix rows per RFC 72
+PASS  06 path combine rule per RFC 79
+PASS  07 priority sum and fastest-first per RFC 70.3
+PASS  08 path hash is SHA512(src, dest)
+PASS  09 stack processing per RFC 77
+PASS  10 swarm routing tuples per RFC 81
+10/10 checks passed

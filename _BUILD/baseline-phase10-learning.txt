@@ -1,0 +1,11 @@
+PASS  01 cause-effect ledger is bidirectional
+PASS  02 experimentation only when not busy
+PASS  03 feedback loop converges
+PASS  04 observation and sequencing
+PASS  05 gaps segment patterns and correlate
+PASS  06 differentiate and correlate round-trip
+PASS  07 dichos resolve to shared core ideas
+PASS  08 action costing roll-up by type
+PASS  09 attention overrides and daydream
+PASS  10 aloneness propagator and CAS prediction
+10/10 checks passed

@@ -1,0 +1,11 @@
+PASS  01 sha3_1024 yields 128 bytes
+PASS  02 blake3_1024 yields 128 bytes
+PASS  03 inahash deterministic 128 bytes
+PASS  04 inahash distinguishes messages
+PASS  05 inahash equals Blake3-1024(SHA3-1024(MSG))
+PASS  06 split_1024_key halves and rejects bad size
+PASS  07 nested AES round-trip
+PASS  08 wrong key fails decrypt
+PASS  09 tampered ciphertext fails
+PASS  10 key derivation and AES key mixing
+10/10 checks passed

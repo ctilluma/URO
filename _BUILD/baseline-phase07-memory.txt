@@ -1,0 +1,11 @@
+PASS  01 four tiers map to SF/F/M/S hardware
+PASS  02 retrieve promotes long to short then short to working
+PASS  03 use counter increments per retrieve
+PASS  04 connection pass yields the four RFC 66 outcomes
+PASS  05 apply pass executes outcomes incl dual residence
+PASS  06 consolidation by counter, attachment, and epinephrine
+PASS  07 introspection clears work to short and short to long
+PASS  08 cognitive decay and pruning
+PASS  09 sleep mode reduces ACL and morning questions queue
+PASS  10 downtime reflection and cache frequency rule
+10/10 checks passed
